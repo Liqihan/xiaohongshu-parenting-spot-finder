@@ -1,15 +1,15 @@
 ---
-name: xiaohongshu-spot-finder
+name: xiaohongshu-parenting-spot-finder
 description: 从小红书搜索杭州亲子游玩地点，自动同步到飞书多维表格。支持季节性搜索、智能去重、批量添加。
 metadata:
-  short-description: 小红书地点同步到飞书
-  emoji: 📕
+  short-description: 小红书亲子游玩乐园搜索
+  emoji: 📕🎡
   requires:
     - feishu_bitable API access
     - browser / web_search
 ---
 
-# 小红书亲子地点挖掘 (xiaohongshu-spot-finder)
+# 小红书亲子游玩乐园搜索 (xiaohongshu-parenting-spot-finder)
 
 ## 核心功能
 

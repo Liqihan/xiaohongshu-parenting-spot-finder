@@ -1,4 +1,4 @@
-# 📕 小红书亲子地点挖掘 (xiaohongshu-spot-finder)
+# 📕🎡 小红书亲子游玩乐园搜索 (xiaohongshu-parenting-spot-finder)
 
 从小红书自动搜索杭州亲子游玩地点，并添加到飞书多维表格。
 
